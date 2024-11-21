@@ -1,7 +1,7 @@
 # Shiren Gaiden [DC] DATABG Extractor / Rebuild
 
 # Extract
-- Put `DATABG.bin` in the same folder of `DATABG_ext.exe` to extract and convert all images.
+- Put `DATABG.bin` in the same folder of `DATABG_ext.exe` to extract and convert all images in `DATABG_EXT` folder.
 
 # Rebuild
 - The first time you execute `DATABG_rebuild.exe` it will ask you to find the output `DATABG.bin`, please note this should point to GDI extracted contents
