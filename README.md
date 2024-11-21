@@ -1,5 +1,8 @@
 # Shiren Gaiden [DC] DATABG Extractor / Rebuild
 
+![image](https://github.com/user-attachments/assets/92d623e3-8ced-46d5-b7ae-c6a363f648fe)
+
+
 # Setup
 - Extract GDI contents of `Fushigi no Dungeon - Fuurai no Shiren Gaiden - Onna Kenshi Asuka Kenzan! (Japan).GDI`
 - Place `DATABG_ext.exe` and `DATABG_rebuild.exe` in any folder dedicated to files modding of your choice.  ( i.e. `C:\DREAMCAST\MOD` )
